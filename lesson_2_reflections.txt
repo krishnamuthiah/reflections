@@ -10,14 +10,22 @@ We can select which files are to be committed.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Commit using staging area can be used verify against latest commit in repo to make sure one logical
+fix is included in the commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+While adding new experimental features which need a working copy of the main branch
+
 
 How do the diagrams help you visualize the branch structure?
+By visualizing the parent of each commit on each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+two branches merged
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic saves time
+manual takes time
