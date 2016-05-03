@@ -22,7 +22,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Its possible to work offline with access to all changes on the remote being available on the local repo.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
