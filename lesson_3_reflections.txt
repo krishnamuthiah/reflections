@@ -34,4 +34,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    A separate branch makes sense when we want to add a new feature or fix a bug and test the changes
+    while the master is still working. We can basically play around with the code on
+    the branch.
